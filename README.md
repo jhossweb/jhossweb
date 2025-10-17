@@ -27,7 +27,6 @@ Aquí puedes ver algunos de los trabajos en los que he estado involucrado y las 
 | **[Generador de Contraseñas](https://github.com/jhossweb/app-passwords-laravel)** | Herramienta de seguridad que genera passwords seguras y aleatorios. Excelente ejercicio para validar la calidad del código y el manejo de la aleatoriedad de forma segura. Proyecto 100% funcional. | **Laravel**, MySQL, Docker |
 | **[(API) Finanzas Personales](https://github.com/jhossweb/app-finanzas-personals)** | Un backend robusto y bien estructurado para llevar cuentas claras. Es una API REST completa desarrollada con NestJS, lo que garantiza que la lógica de negocio es modular y fácil de mantener. Un excelente ejemplo de cómo organizar código de servidor con TypeScript. | **Nestjs**, TypeScript, TypeORM |
 
-<div width="100%" align="center"><a href="https://github.com/jhossweb/app-finanzas-personals" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jhossweb&repo=app-finanzas-personals&title_color=000000&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 ---
 
 
